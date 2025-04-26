@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.placeholder {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #aaa;
+}
